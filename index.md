@@ -1,2 +1,2 @@
 # a11ya11y.github.io
-test index page
+This is a test page for this ☝︎ repo.
